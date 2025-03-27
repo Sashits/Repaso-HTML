@@ -19,10 +19,36 @@ h2 {
 
 img {
   border: 2px solid black;
+  width: 200px;
 }
 
 .resaltar {
     color: green;
 }
+
+table {
+    padding: 10px;
+    
+}
+
+#titulo-grande {
+    size: 30px;
+}
+
+li {
+    color: purple;
+}
+
+.Amarillo {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: yellow;
+}
+
+
+
+
+
+
 
 
